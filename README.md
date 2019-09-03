@@ -81,8 +81,8 @@ If you encounter problems, refer to the [IoT DevKit FAQ](https://microsoft.githu
 
 ## See also
 
-* [Connect IoT DevKit AZ3166 to Azure IoT Hub in the cloud](iot-hub-arduino-iot-devkit-az3166-get-started.md)
-* [Shake, Shake for a Tweet](iot-hub-arduino-iot-devkit-az3166-retrieve-twitter-message.md)
+* [Connect IoT DevKit AZ3166 to Azure IoT Hub in the cloud](https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-get-started/mxchip-iot-devkit-get-started/)
+* [Shake, Shake for a Tweet](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/iot-hub/iot-hub-arduino-iot-devkit-az3166-retrieve-twitter-message.md)
 
 ## Next steps
 
