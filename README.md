@@ -9,7 +9,7 @@ products:
 - azure-iot-hub
 name: "Azure MXChip IoT DevKit MQTT Client"
 description: "Use DevKit as a client to send messages to MQTT server."
-urlFragment: "mxchip-iot-devkit-mqtt-client"
+urlFragment: "sample"
 ---
 
 ## Send messages to an MQTT server
